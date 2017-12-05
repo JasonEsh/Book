@@ -1,9 +1,8 @@
-COMFORT WAR
+COMFORT WAR   
 ===========
-
 Jason Esh
 
-
+&nbsp;
 
 
 You don't know what you're up against.
@@ -93,7 +92,7 @@ Make no mistake, you're at war with yourself.
 
 COST 
 ====
-# CHAPTER ONE
+### CHAPTER ONE
 
 The definitive, most pathological aspect of my struggle against myself
 had always been the way in which, despite my great need, a pervasive
@@ -414,7 +413,7 @@ beauty.
 
 THAT WHICH KILLS 
 ================
-# CHAPTER TWO
+### CHAPTER TWO
 
 I'll explain the method:
 
@@ -767,7 +766,7 @@ became rapture, and the most deeply masked want---a fervent will.
 
 KIND HEARTED WEAKNESS 
 =====================
-# CHAPTER THREE
+### CHAPTER THREE
 
 Growing up, my father had taught us that most important was to simply
 "be a good person". This idea had resonated well with my young-self and
@@ -992,7 +991,7 @@ moral.
 
 RULES OF ENGAGEMENT 
 ===================
-# CHAPTER FOUR
+### CHAPTER FOUR
 
 You understand now the principle of using the MR as a daily indicator of
 success or failure as well as the moral imperative of self-betterment.
@@ -1174,7 +1173,7 @@ self-discipline.
 
 STRIVE
 ======
-# CHAPTER FIVE
+### CHAPTER FIVE
 
 My role in the war had just begun--and I was tired. Was hinging it all
 on desperation truly enough? I'd only hoped. But it didn't matter much,
@@ -1628,7 +1627,7 @@ efforts.
 
 ADDICTION  
 ==========
-# CHAPTER SIX
+### CHAPTER SIX
 
 If you categorize the pursuit of comfort (or more specifically,
 supernormal stimuli) as addictive, the nature of the conversation
@@ -1892,7 +1891,7 @@ stead, I will relish in the exertion of free will in the face of it.
 
 RAGE SPREAD THIN 
 ================
-# CHAPTER SEVEN
+### CHAPTER SEVEN
 
 > *"If we do not initiate the young, they will burn down the village to
 > feel the heat."*[^67]
@@ -2277,7 +2276,7 @@ seeking individuality, but you are not alone, Warrior.
 
 RAW LIVING 
 ==========
-# CHAPTER EIGHT
+### CHAPTER EIGHT
 
 The human condition is ineffective, so long as it cannot calm itself
 without stimuli. No matter the nature of your fixation, if you cannot
@@ -2776,9 +2775,9 @@ please visit <http://ComfortWar.com>.
 
 If you have any questions, or have found any of the information here to
 be erroneous, dubious, or ill-presented, please don't hesitate to
-contact me at <Esh@ComfortWar.com>.
+contact me at Esh (at) ComfortWar (dot) com.
 
- {#section-2 .Chapter}
+
 
 [^1]: Nietzsche, F., & Large, D. (1998). *Twilight of the Idols, or, How
     to Philosophize with a Hammer*. New York: Oxford University Press.
