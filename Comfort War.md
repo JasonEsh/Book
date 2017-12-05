@@ -2798,6 +2798,10 @@ contact me at Esh (at) ComfortWar (dot) com.
 
 &nbsp;
 
+---
+
+&nbsp;
+
 [^1]: Nietzsche, F., & Large, D. (1998). *Twilight of the Idols, or, How
     to Philosophize with a Hammer*. New York: Oxford University Press.
 
