@@ -18,6 +18,7 @@ Sister,
 
 you do.
 
+&nbsp;
 
 INTRODUCTION  
 =============
@@ -89,6 +90,7 @@ truly heroic.
 
 Make no mistake, you're at war with yourself.
 
+&nbsp;
 
 COST 
 ====
@@ -410,6 +412,7 @@ conspectus: "I want to become stronger".
 Build yourself in the pain of desperation up into a life of unmatched
 beauty.
 
+&nbsp;
 
 THAT WHICH KILLS 
 ================
@@ -763,6 +766,7 @@ our position, relative to our expectation of what should be. In a life
 pursued outside an expectation of ease, the most subtle grace suddenly
 became rapture, and the most deeply masked want---a fervent will.
 
+&nbsp;
 
 KIND HEARTED WEAKNESS 
 =====================
@@ -988,6 +992,7 @@ was around me---it was not justified. As I took my first steps in the
 pursuit of clarity, I determined that without strength I could not be
 moral.
 
+&nbsp;
 
 RULES OF ENGAGEMENT 
 ===================
@@ -1170,6 +1175,7 @@ they are the stronghold that fortifies the clarity of your resolve. They
 are what makes the difference between forced-obedience and
 self-discipline.
 
+&nbsp;
 
 STRIVE
 ======
@@ -1624,6 +1630,7 @@ efforts.
 >
 > *Still does the cherry tree put forth its blossoms of yore."*[^47]
 
+&nbsp;
 
 ADDICTION  
 ==========
@@ -1888,6 +1895,8 @@ say for others whether one way of life is objectively better than
 another, but I can say it for myself; and I have. In my life, so long as
 there is an external force that attempts to dictate for me and in my
 stead, I will relish in the exertion of free will in the face of it.
+
+&nbsp;
 
 RAGE SPREAD THIN 
 ================
@@ -2273,6 +2282,8 @@ have the right to shape them into congruence. Though it may still be
 impossible for us to join our lifestyles entirely, remember that you
 exist alongside a principle that is fought for worldwide. You may be
 seeking individuality, but you are not alone, Warrior.
+
+&nbsp;
 
 RAW LIVING 
 ==========
@@ -2746,6 +2757,8 @@ their circumstances. Rather, they evaluate and act to change them. One
 day, we will, but first we must strengthen ourselves. It will not be
 easy to bear.
 
+&nbsp;
+
 END NOTES 
 =========
 
@@ -2777,7 +2790,7 @@ If you have any questions, or have found any of the information here to
 be erroneous, dubious, or ill-presented, please don't hesitate to
 contact me at Esh (at) ComfortWar (dot) com.
 
-
+&nbsp;
 
 [^1]: Nietzsche, F., & Large, D. (1998). *Twilight of the Idols, or, How
     to Philosophize with a Hammer*. New York: Oxford University Press.
