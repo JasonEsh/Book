@@ -131,10 +131,10 @@ matter that is rising up to live life in all the glory and beauty it has
 to offer. Such clarity, is the rarest currency in our day-and-age, for
 sight cannot be easily attained by seeking.
 
----
 
 Now, it's time to get into some details. Shall we?
 
+---
 The nature of this struggle, is that it is nearly impossible to adapt
 **at-once** the total composure necessary to face a hardwired
 inclination toward comfort-seeking.
@@ -2782,6 +2782,12 @@ mushaburui. Or better yet, in the words of Goodkind:
 Your life is yours alone.
 
 Rise up and live it.
+
+&nbsp;
+
+---
+
+&nbsp;
 
 To join the community, tune in to podcasts or support this publication,
 please visit <http://ComfortWar.com>.
